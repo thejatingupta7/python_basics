@@ -1,0 +1,30 @@
+1. Display first 10 natural numbers
+2. Sum of 10 natural numbers
+3. n Natural numbers and their sum
+4. Read ten numbers and print their sum and average
+5. Display cube of numbers up to an integer
+6. Display multiplication table for a given number
+7. Calculate factorial of a given number
+8. Sum of n terms of even natural numbers
+9. Display the sum of series: [9+99+999+....n terms]
+10. Find the sum of series: [x -x^3 +x^5 +x^7 +.......n terms]
+11. Display the sum of series: [1+11+111+.....n terms]
+12. Check if the enter number is perfect or not
+13. Display n terms of square natural numbers and their sum
+14. Check if a number is Armstrong or not
+15. Display Armstrong numbers for a given range
+16. Display if a number is prime or not
+17. Display first n terms of the Fibonacci series
+18. Display numbers in reverse order
+19. Check whether a number is palindrome or not
+20. Display integers and their sum from 100 to 200 which are divisible by 9
+21. Decimal to binary without array
+22. Convert binary to decimal
+23. HCF of two numbers
+24. Find LCM of two numbers using hcf
+25. Find LCM of 2 numbers
+26. Check if a number is strong or not
+27. Find sum of an AP series and display it
+28. Convert decimal to octal without array
+29. Convert octal to decimal without array
+30. Convert binary to octal
